@@ -1,0 +1,8 @@
+127.0.0.1 - - [17/Dec/2024:12:19:23 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [17/Dec/2024:12:19:26 +0530] "GET /Building_data_using_model_Interface/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [17/Dec/2024:12:19:35 +0530] "GET /Building_data_using_model_Interface/employee HTTP/1.1" 200 182
+0:0:0:0:0:0:0:1 - - [17/Dec/2024:12:20:31 +0530] "GET /Building_data_using_model_Interface/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [17/Dec/2024:12:20:43 +0530] "GET /Building_data_using_model_Interface/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [17/Dec/2024:12:20:52 +0530] "GET /Building_data_using_model_Interface/employee HTTP/1.1" 200 182
+127.0.0.1 - - [17/Dec/2024:12:27:06 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [17/Dec/2024:12:27:12 +0530] "GET /Building_data_using_model_Interface/ HTTP/1.1" 200 52
